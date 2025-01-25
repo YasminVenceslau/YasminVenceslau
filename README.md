@@ -1,4 +1,4 @@
-## Olá, Eu sou a Yasmin Venceslau 👋
+## Olá, Eu sou a Yasmin 👋
 
 - Dando meus primeiros passos no mundo do desenvolvimento, com interesse especial em Python e tecnologias Front-end.
 
